@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick Bappe
+👋 Hi, I’m Nick Bappe. I am a software developer with a passion for learning.
 
 <!---
 Zubrungus/Zubrungus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
